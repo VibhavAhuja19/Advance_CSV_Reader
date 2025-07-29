@@ -24,7 +24,7 @@ A powerful Streamlit application for exploring, analyzing, and visualizing CSV d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-csv-explorer.git
+   git clone https://github.com/VibhavAhuja19/Advance_CSV_Reader.git
    cd advanced-csv-explorer
    ```
 2. Create and activate a virtual environment
